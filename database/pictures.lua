@@ -2979,5 +2979,17 @@ return {
     ["bzgas"] = {
         label = "bzgas",
         image = "https://raw.githubusercontent.com/Mistextreme/icons_inventory/main/files/bzgas.png"
+    },
+    ["bun_lettu_toma"] = {
+        label = "bun_lettu_toma",
+        image = "https://raw.githubusercontent.com/Mistextreme/icons_inventory/main/bun_lettu_toma.png"
+    },
+    ["bun_raw"] = {
+        label = "bun_raw",
+        image = "https://raw.githubusercontent.com/Mistextreme/icons_inventory/main/bun_raw.png"
+    },
+    ["bun_raw_lettu_toma"] = {
+        label = "bun_raw_lettu_toma",
+        image = "https://raw.githubusercontent.com/Mistextreme/icons_inventory/main/bun_raw_lettu_toma.png"
     }
 }
